@@ -1,0 +1,13 @@
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.csprojAssemblyReference.cache
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.AssemblyInfoInputs.cache
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.AssemblyInfo.cs
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.csproj.CoreCompileInputs.cache
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsole.exe
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsole.deps.json
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsole.runtimeconfig.json
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsole.runtimeconfig.dev.json
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsole.dll
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\bin\Debug\netcoreapp3.1\PlayingWithVariablesConsole.pdb
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.dll
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.pdb
+C:\Users\thewa\source\repos\PlayingWithVariablesConsole\PlayingWithVariablesConsole\obj\Debug\netcoreapp3.1\PlayingWithVariablesConsole.genruntimeconfig.cache
